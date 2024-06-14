@@ -1,5 +1,5 @@
 [a-zA-Z0-9]{1,200}\.[a-zA-Z0-9]{1,10}
-
+https://port135.com/best-practices-for-session-state-and-cookies-in-asp-net-application/
 ViewState
 
 https://swapneildash.medium.com/deep-dive-into-net-viewstate-deserialization-and-its-exploitation-54bf5b788817
@@ -11,3 +11,9 @@ http://appetere.com/post/working-with-viewstate
 https://www.aspsnippets.com/questions/119422/Setting-Cookies-path-and-expiration-in-Globalasax-using-C-in-ASPNet/
 
 https://docs.microsoft.com/en-us/answers/questions/512515/set-aspnet-sessionid-cookie-path-attribute-in-webc.html
+
+SEO https://www.youtube.com/watch?v=5QhkfcfZNjA&index=12&list=PLjVLYmrlmjGcCeELcp2VU66XHlmyoPRpM
+ 
+Modal Class implement Online http://www.jsonschema2pojo.org/
+
+email design https://www.c-sharpcorner.com/blogs/send-email-using-asp-net-in-godaddy-server
